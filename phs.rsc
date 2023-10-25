@@ -1,0 +1,17 @@
+WIDTH  1621
+FILE_LENGTH   1837
+XMIN          1
+XMAX     1621
+YMIN          1
+YMAX      1837
+X_FIRST       -72.000000
+Y_FIRST       -16.430000
+X_STEP             0.00009259259
+Y_STEP            -0.00009259259
+X_UNIT        degres
+Y_UNIT        degres
+WAVELENGTH         0.05550420000
+Z_OFFSET      0
+Z_SCALE       1
+PROJECTION    LATLON
+DATUM         WGS84
